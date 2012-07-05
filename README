@@ -1,0 +1,14 @@
+Python-like generators for C++.
+
+Example in ./app
+
+To build and test:
+
+mkdir build
+cd build
+cmake ..
+make
+ctest
+
+Run the example:
+./app/example
